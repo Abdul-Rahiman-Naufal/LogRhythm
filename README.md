@@ -1,6 +1,6 @@
 # LogRhythm-GoAnywhere-Regex-Dashboard
 
-This is repo includes LR rules to parse GoAnywhere SFTP logs and a dashbaord for same.
+This is repo includes LR rules to parse GoAnywhere SFTP logs and a dashboard for same.
 
 Step 1: Create new rule by going to rule builder.
 
